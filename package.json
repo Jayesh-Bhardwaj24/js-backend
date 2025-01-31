@@ -1,0 +1,23 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayesh-Bhardwaj24/js-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayesh-Bhardwaj24/js-backend/issues"
+  },
+  "homepage": "https://github.com/Jayesh-Bhardwaj24/js-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
